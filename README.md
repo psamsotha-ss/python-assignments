@@ -1,10 +1,17 @@
-# Smoothstack Basic Python Assignments
+# Smoothstack Python Assignments
 
 ### Set up virtual environment
 
 ```shell
+$ python3 -m venv venv
 $ source venv/bin/activate
 (venv) $
+```
+
+Install Python modules
+
+```shell
+(venv) $ pip install -r requirements.txt
 ```
 
 ### Run a program
